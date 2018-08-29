@@ -1,6 +1,6 @@
 # NLP
 
-Part of my work for Kaggle's Toxic Comment Classification Challenge. Positioned 15th out of 4551 competitors
+Part of my work for Kaggle's Toxic Comment Classification Challenge. Positioned 15th out of 4551 competitors. Competition details: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 Shortform explanation used below:
 <br />
