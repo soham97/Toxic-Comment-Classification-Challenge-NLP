@@ -3,7 +3,7 @@
 Part of my work for Kaggle's Toxic Comment Classification Challenge. <br>
 Positioned 15th out of 4551 competitors. <br>
 Competition details: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge <br>
-Solution details and experience: https://soham97.github.io/Kaggle-Toxic-Comment-Challenge/
+Solution details and experience: [here](https://soham97.github.io/posts/2018/02/Google-Toxic-Comment-Classification-Challenge/)
 
 Shortform explanation used below:
 <br />
